@@ -1,1 +1,1 @@
-hii my name is Raoul BODA. here are some of my First projects converted with HTML, CSS and Python.
+hii my name is Raoul BODA. here are some of my First projects using HTML, CSS and Python.
